@@ -1,0 +1,25 @@
+body {background-color:black ;}
+main {padding:40px 50px 50px 50px}
+header{padding:40px 50px 50px 50px}
+aside{padding:40px 50px 50px 50px}
+body {
+    background-color: rgb(7, 4, 193);
+}
+
+
+p {
+    color:rgb(6, 224, 17)
+}
+div{
+    color:aliceblue;
+}
+#intro{
+    color: burlywood;
+}
+.class1{
+    color:aliceblue
+}
+
+h1 {
+    color:rgb(36, 255, 215)
+}
